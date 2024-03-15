@@ -1,6 +1,6 @@
 {
   "name": "@aminhg/area69_team",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "simple add wm using FFmpeg",
   "main": "index.js",
   "author": "aminhg",
